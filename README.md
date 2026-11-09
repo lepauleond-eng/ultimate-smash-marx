@@ -10,6 +10,7 @@ Modes : **Brawl**, **Grève générale** et **École du Parti** (le tuto).
 👉 **https://lepauleond-eng.github.io/ultimate-smash-marx/jeu/**
 
 Sur ordinateur, avec Chrome, Edge ou Firefox (récents). Le premier chargement prend quelques secondes (~45 Mo).
+Sur un PC portable avec deux cartes graphiques, le jeu est plus fluide si le navigateur utilise la carte puissante (Windows : Paramètres > Affichage > Graphiques > choisir le navigateur > « Hautes performances »).
 
 ## Jouer sur Windows
 
